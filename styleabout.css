@@ -1,0 +1,32 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('background.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: #F38FB2;
+}
+
+
+.content {
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(255, 224, 229); /* semi-transparent*/
+    margin: auto;
+    max-width: 800px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
